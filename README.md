@@ -36,7 +36,7 @@ Let your AI agent read **only the Telegram chats you pick**, from a small server
 Or let your agent do it in one command (Claude Code and others that use GitHub's `gh` tool):
 
 ```bash
-gh repo fork Hemicart/telegram-agent-gateway --clone=false
+gh repo fork ZD0101/telegram-agent-gateway --clone=false
 ```
 
 You now have your own copy, and **everything from here uses your copy, on your own GitHub

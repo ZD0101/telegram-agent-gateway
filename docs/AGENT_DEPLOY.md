@@ -8,7 +8,7 @@ Most people want this. The agent explains each step and you click. Paste:
 
 ```text
 Help me set up Telegram Agent Gateway. Read the README at
-https://github.com/Hemicart/telegram-agent-gateway
+https://github.com/ZD0101/telegram-agent-gateway
 (the section "For AI agents helping someone set this up" is for you).
 
 Walk me through it one step at a time in plain, simple words: what to click, then wait for me to
